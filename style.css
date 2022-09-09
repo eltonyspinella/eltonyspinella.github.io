@@ -13,9 +13,9 @@
 
 .caja1 {
 
-    margin: 10px;
-    margin-left: 10px;
-    margin-right: 2px;
+    /*margin: 10px;*/
+    /*margin-left: 10px;*/
+    /*margin-right: 2px;*/
     width: 290px;
     height: 610px;
     background-color: rgb(131, 108, 108);
@@ -137,7 +137,7 @@ img {
 }
 
 .caja2 {
-    margin: 10px;
+    /*margin: 10px;*/
     width: 990px;
     height: 600px;
     background-color: white;
